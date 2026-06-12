@@ -1,0 +1,3 @@
+Git training repository
+
+Step 1: create the first commit
